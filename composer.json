@@ -1,0 +1,32 @@
+{
+  "name": "pmpr-mdl/wp-mdl-url-structure",
+  "type": "project",
+  "license": "proprietary",
+  "description": "URL Structure Module for Wordpress",
+  "keywords": [
+    "wordpress",
+    "package",
+    "module",
+    "url-structure"
+  ],
+  "require": {
+    "php": ">=8.2",
+    "pmpr-cmn/wp-cmn-foundation": "~1.4"
+  },
+  "prod-require": {
+    "php": "8.2",
+    "wordpress": "6.0",
+    "wp-cmn-foundation": "latest"
+  },
+  "autoload": {
+    "psr-4": {
+      "Pmpr\\Module\\URLStructure\\": "src/Pmpr/Module/URLStructure"
+    },
+    "files": [
+      "index.php"
+    ]
+  },
+  "minimum-stability": "dev",
+  "tag": "1.1.7",
+  "timestamp": "1726343128"
+}

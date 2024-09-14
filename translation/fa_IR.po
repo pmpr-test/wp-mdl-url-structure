@@ -1,0 +1,132 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Pmpr URLStructure\n"
+"POT-Creation-Date: 2023-12-06 20:42+0330\n"
+"PO-Revision-Date: 2023-12-06 20:42+0330\n"
+"Last-Translator: pmpr.dev <pmpr.dev@gmail.com>\n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: index.php\n"
+"X-Source-Language: en\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: lib\n"
+"X-Poedit-SearchPathExcluded-1: *.js\n"
+
+#: src/Pmpr/Module/URLStructure/Setting.php:32
+#: src/Pmpr/Module/URLStructure/URLStructure.php:18
+msgid "URL Structure"
+msgstr "ساختار پیوند"
+
+#: src/Pmpr/Module/URLStructure/Setting.php:33
+msgid "URL Structure Setting"
+msgstr "تنظیمات ساختار پیوند"
+
+#: src/Pmpr/Module/URLStructure/Setting.php:67
+msgid "Subdomain"
+msgstr "ساب‌ دامین"
+
+#: src/Pmpr/Module/URLStructure/Setting.php:69
+msgid "Subdomain Configuration"
+msgstr "پیکربندی ساب دامین"
+
+#: src/Pmpr/Module/URLStructure/Setting.php:72
+msgid "Rule"
+msgstr "قاعده"
+
+#: src/Pmpr/Module/URLStructure/Setting.php:76
+msgid "Target"
+msgstr "هدف"
+
+#: src/Pmpr/Module/URLStructure/Setting.php:77
+#: src/Pmpr/Module/URLStructure/Setting.php:84
+msgid "Taxonomy"
+msgstr "طبقه‌بندی"
+
+#: src/Pmpr/Module/URLStructure/Setting.php:78
+#: src/Pmpr/Module/URLStructure/Setting.php:96
+msgid "Post Types"
+msgstr "نوع نوشته‌ها"
+
+#: src/Pmpr/Module/URLStructure/Setting.php:85
+msgid "Determine which taxonomy used as subdomain."
+msgstr "مشخص کنید کدام نوع طبقه‌بندی به عنوان ساب‌دامین مورد استفاده قرار گیرد."
+
+#: src/Pmpr/Module/URLStructure/Setting.php:89
+msgid "Register Post Types"
+msgstr "نوع‌ نوشته‌های متصل شده"
+
+#: src/Pmpr/Module/URLStructure/Setting.php:90
+msgid "Choose any other post types for the selected taxonomy to be registered."
+msgstr ""
+"در صورتی که مایلید طبقه بندی انتخاب شده به نوع نوشته‌های بیشتری متصل شود، آن‌ها "
+"را انتخاب کنید."
+
+#: src/Pmpr/Module/URLStructure/Setting.php:91
+msgid ""
+"Disabled options (if any), are programmed (e.g. via a plugin) and cannot be "
+"changed."
+msgstr ""
+"گزینه‌های غیرفعال (در صورت وجود)، برنامه‌نویسی شده‌اند (مثلا از طریق یک افزونه) "
+"و قابل تغییر نیستند."
+
+#: src/Pmpr/Module/URLStructure/Setting.php:100
+msgid "Post Type"
+msgstr "نوع نوشته"
+
+#: src/Pmpr/Module/URLStructure/Setting.php:105
+msgid "Use"
+msgstr "استفاده از"
+
+#: src/Pmpr/Module/URLStructure/Setting.php:106
+msgid "Single Slug"
+msgstr "نامک نوشته"
+
+#: src/Pmpr/Module/URLStructure/Setting.php:107
+msgid "Archive Slug"
+msgstr "نامک آرشیو"
+
+#~ msgid ""
+#~ "Specify which post types should be registered on the selected taxonomy."
+#~ msgstr "مشخص کنید طبقه‌بندی انتخاب شده به کدام نوع نوشته‌ها متصل شود."
+
+#~ msgid "Post Slug"
+#~ msgstr "نامک نوشته"
+
+#~ msgid "Post Type Slug"
+#~ msgstr "نامک نوع نوشته"
+
+#~ msgid ""
+#~ "This section fields not available right now, please config your rules and "
+#~ "save setting then you can change this section fields."
+#~ msgstr ""
+#~ "فیلدهای این بخش در حال حاضر در دسترس نیستند، لطفا قواعد را تعیین و تنظمات "
+#~ "را ذخیره کنید تا بتوانید فیلد‌های این بخش را تغییر دهید."
+
+#~ msgid "Prioritization"
+#~ msgstr "الویت‌بندی"
+
+#~ msgid "Collision Resolution"
+#~ msgstr "جلوگیری از تداخل"
+
+#~ msgid "General"
+#~ msgstr "عمومی"
+
+#~ msgid "General Configuration"
+#~ msgstr "پیکربندی عمومی"
+
+#~ msgid "Define Rules"
+#~ msgstr "تعریف قواعد"
+
+#~ msgid "Advanced"
+#~ msgstr "پیشرفته"
+
