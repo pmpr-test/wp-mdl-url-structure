@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             670517a95b6e8             |
+    |             670d0059041fe             |
     |_______________________________________|
 */
- namespace Pmpr\Module\URLStructure\Plugin; class Woocommerce extends Common { }
+ namespace Pmpr\Module\URLStructure\Plugin; use Pmpr\Module\URLStructure\Container; class Woocommerce extends Container { }
